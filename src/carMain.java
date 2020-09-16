@@ -8,6 +8,12 @@ public class carMain {
 		carTest myCar = new carTest("BMW","Black",145000,2020);
 		System.out.println("*********************************");
 		carTest fatherCar = new carTest("Mercedes","White",145000,2020);
+		System.out.println("asdasda");
+		System.out.println("asdasda");
+		System.out.println("asdasda");
+		System.out.println("asdasda");
+		
+		
 	}
 
 }
